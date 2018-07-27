@@ -1,6 +1,8 @@
 [macOS Setup Guide](https://sourabhbajaj.com/mac-setup)
 ====================
 
+[![Build Status](https://travis-ci.org/Arunthomas1105/mac-setup.svg?branch=master)](https://travis-ci.org/Arunthomas1105/mac-setup)
+
 | branch | status |
 | ------ | ------ |
 | `master` | [![master branch](https://travis-ci.org/sb2nov/mac-setup.svg?branch=master)](https://travis-ci.org/sb2nov/mac-setup) |
